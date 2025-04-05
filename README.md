@@ -1,7 +1,9 @@
  Sinema Bilet Satış ve Müşteri Kayıt Sistemi (Java)
+ 
 Bu proje, Java programlama dili ile geliştirilmiş temel bir sinema bilet satış ve müşteri yönetim sistemidir. Konsol tabanlı kullanıcı arayüzüyle film ekleme, müşteri kaydı oluşturma, bilet satışı yapma ve kayıtlı bilgileri listeleme gibi işlemleri gerçekleştirebilirsiniz.
 
  Özellikler
+ 
 Film ekleme (ad, süre, tür)
 
 Müşteri kaydı (ad, e-posta)
@@ -17,6 +19,7 @@ Bilet bilgileri (müşteri → film ilişkisi) listeleme
 Konsol tabanlı kullanıcı dostu menü
 
  Nasıl Çalışır?
+ 
 Program açıldığında kullanıcıyı bir ana menü karşılar. Menüde kullanıcı, istediği işlemi seçerek film veya müşteri ekleyebilir, bilet satışı yapabilir ya da mevcut kayıtları listeleyebilir.
 
 Veri Yapısı
